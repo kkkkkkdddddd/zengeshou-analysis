@@ -1,0 +1,3 @@
+interface:
+  display_name: "增额寿分析"
+  short_description: "复刻增额寿和年金保险演示表，逐年核算现金流、年化收益率及翻倍节点"
